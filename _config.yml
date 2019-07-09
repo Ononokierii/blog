@@ -5,11 +5,11 @@
 # Site
 title: 西木
 subtitle: blog
-description: blog
-keywords: blog
+description:
+keywords:
 author: ononokierii
-language: zh-cn
-timezone: GMT+9
+language:
+timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
