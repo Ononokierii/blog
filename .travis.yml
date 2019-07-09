@@ -11,6 +11,7 @@ cache:
     - node_modules
 after_script:
   - cp -f CNAME ./public/CNAME
+  - cp -f .nojekekyll ./public
   - cd ./public
   - touch README.MD
   - echo `date +"%Y-%m-%d %H-%m-%s"` >> README.MD
