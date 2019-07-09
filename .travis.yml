@@ -20,4 +20,4 @@ after_script:
   - git config user.email "ononokierii@gmail.com"
   - git add .
   - git commit -m "automated build"
-  - git push --quiet --force https://${REPO_TOKEN}@github.com/Ononokierii/blog.git master:gh-pages
+  - git push --quiet --force https://${REPO_TOKEN}@github.com/Ononokierii/Ononokierii.github.io.git master:gh-pages
