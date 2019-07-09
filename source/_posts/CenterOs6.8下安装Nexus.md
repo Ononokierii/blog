@@ -1,3 +1,16 @@
+---
+author: 小莫
+date: 2016-05-11
+title: CenterOs6.8下安装Nexus
+tags:
+- angular
+- javascript
+category: angularjs
+permalink: ngOptions
+---
+我们在使用select>option的时候经常会遇到一些问题，这里是对ng-options使用的一些总结。
+<!--more-->
+
 # 1. 下载安装包
 wget http://download.sonatype.com/nexus/3/latest-unix.tar.gz
 # 2. 解压安装包

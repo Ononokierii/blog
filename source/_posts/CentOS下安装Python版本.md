@@ -1,3 +1,16 @@
+---
+author: 小莫
+date: 2016-05-11
+title: CentOS下安装Python版本
+tags:
+- angular
+- javascript
+category: angularjs
+permalink: ngOptions
+---
+我们在使用select>option的时候经常会遇到一些问题，这里是对ng-options使用的一些总结。
+<!--more-->
+
 > 更新gcc，因为gcc版本太老会导致新版本python包编译不成功
 
 ```

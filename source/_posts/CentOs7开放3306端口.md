@@ -1,3 +1,16 @@
+---
+author: 小莫
+date: 2016-05-11
+title: CentOs7开放3306端口
+tags:
+- angular
+- javascript
+category: angularjs
+permalink: ngOptions
+---
+我们在使用select>option的时候经常会遇到一些问题，这里是对ng-options使用的一些总结。
+<!--more-->
+
 CentOS 7.0默认使用的是firewall作为防火墙，这里改为iptables防火墙。
 
 1. 关闭firewall：
