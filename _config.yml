@@ -4,12 +4,12 @@
 
 # Site
 title: 西木
-subtitle:
-description:
-keywords:
-author: John Doe
-language:
-timezone:
+subtitle: blog
+description: blog
+keywords: blog
+author: ononokierii
+language: zh-cn
+timezone: GMT+9
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
