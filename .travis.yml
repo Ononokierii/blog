@@ -1,0 +1,22 @@
+language: node_js
+node_js:
+  - "8"
+script: 
+  - npm run build
+install:
+  - npm install
+  - npm install -g hexo
+cache:
+  directories:
+    - node_modules
+after_script:
+  - cp -f CNAME ./public/CNAME
+  - cd ./public
+  - touch README.MD
+  - echo `date +"%Y-%m-%d %H-%m-%s"` >> README.MD
+  - git init
+  - git config user.name "ononokierii"
+  - git config user.email "ononokierii@gmail.com"
+  - git add .
+  - git commit -m "automated build"
+  - git push --quiet --force https://${REPO_TOKEN}@github.com/Ononokierii/blog.git master:gh-pages
