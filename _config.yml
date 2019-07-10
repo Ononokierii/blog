@@ -81,3 +81,10 @@ deploy:
   type:
 include:
   - .nojekyll
+gitTalk:
+  clientId: 394a6d5740c6142a2c43
+  clientSecret: 4331c6775f1a89f78542c6476afad3604ed76dbd
+  repo: blog
+  owner: Ononokierii
+  admin:
+    - Ononokierii
