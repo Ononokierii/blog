@@ -247,7 +247,7 @@ valine:
 
 # Footer Settings
 # ---------------
-since: 2018
+since: 2019
 
 footer_custom_text:
 
@@ -285,13 +285,13 @@ baidu_site_verification:
 qihu_site_verification:
 
 Flink:
-  headline: 友情鏈接
+  headline: 友情链接
   info_headline: 我的Blog資料
-  name: Blog 名字： JerryC
-  address: Blog 地址： https://jerryc.me/
-  avatar: Blog 頭像： https://jerryc.me/img/avatar.png
-  info: Blog 簡介： 今日事,今日畢
-  comment: 如果需要交換友鏈,請留言
+  name: Blog 名字： kumori
+  address: Blog 地址： https://kumori.cn/
+  avatar: Blog 头像： https://kumori.cn/img/avatar.png
+  info: Blog 简介： 今日事,今日畢
+  comment: 如果需要交换友链,请留言
 
  
 
@@ -310,7 +310,7 @@ activate_power_mode:
 
 
 announcement:
-  content: 感謝訪問本站，若喜歡請收藏 ^_^
+  content: 感谢访问本站，若喜欢请收藏 ^_^
 
 reward:
   enable: true
@@ -320,7 +320,7 @@ reward:
         text: 微信
     - itemlist:
         img: /img/alipay.jpg
-        text: 支付寶
+        text: 支付宝
 
 related_post:
   enable: true
@@ -369,7 +369,7 @@ hr:
 # 主頁subtitle
 subtitle: 
   enable: true
-  sub1: 今日事,今日畢
+  sub1: 今日事,今日毕
   sub2: Never put off till tomorrow what you can do today
 
 #側邊欄顯示設置
@@ -387,9 +387,9 @@ aside:
 translate:
   enable: true
   # 默認按鈕顯示文字
-  default: 簡
+  default: 简
   #网站默认语言，1: 繁體中文, 2: 简体中文
-  defaultEncoding: 1
+  defaultEncoding: 2
   #延迟时间,若不在前, 要设定延迟翻译时间, 如100表示100ms,默认为0
   translateDelay: 0
   #博客网址
