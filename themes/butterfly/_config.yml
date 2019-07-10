@@ -54,7 +54,7 @@ code_word_wrap: false
 #   icon: link
 # ---------------
 social:
-  fa fa-github: https://github.com/jerryc127
+  fa fa-github: https://github.com/Ononokierii
   fa fa-rss: /atom.xml
 
 # Algolia search
