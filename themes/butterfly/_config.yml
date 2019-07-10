@@ -221,13 +221,13 @@ disqus:
   # client_id: 
   # client_secret: 
 
-# gitalk:
-#   enable: false
-#   client_id: 
-#   client_secret: 
-#   repo:
-#   owner:
-#   admin:
+gitalk:
+  enable: true
+  client_id: 394a6d5740c6142a2c43
+  client_secret: 4331c6775f1a89f78542c6476afad3604ed76dbd
+  repo: blog
+  owner: Ononokierii
+  admin: Ononokierii
 ####   Using this js for redirect to gitalk container after login
 ####   See https://github.com/gitalk/gitalk/issues/125
 #   js: https://cdn.jsdelivr.net/gh/upupming/gitalk@36368e5dffd049e956cdbbd751ff96c28d8255cf/dist/gitalk.min.js
